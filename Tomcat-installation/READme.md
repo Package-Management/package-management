@@ -1,13 +1,13 @@
-#  **<span style="color:green">Landmark Technologies, Ontario, Canada.</span>**
-### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com**
+#  **<span style="color:green">Prime Global Tech., Alberta, Canada.</span>**
+### **<span style="color:green">Contacts: +1403 --- ----<br> WebSite : <http://damgooddevops.com/></span>**
+### **Email: damgooddevops@gmail.com**
 
 
 
-## Apache Tomcat Installation And Setup In AWS EC2 Redhat Instnace.
+## Apache Tomcat Installation And Setup In AWS EC2 Redhat Instance.
 ##### Prerequisite
 + AWS Acccount.
-+ Create Redhat EC2 T2.micro Instnace.
++ Create Redhat EC2 T2.micro Instance.
 + Create Security Group and open Tomcat ports or Required ports.
    + 8080 ..etc
 + Attach Security Group to EC2 Instance.
